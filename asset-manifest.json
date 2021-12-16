@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/meiri45/shopit.github.io.git/static/css/main.073c9b0a.css",
+    "main.js": "/meiri45/shopit.github.io.git/static/js/main.1d646f86.js",
+    "static/js/787.55b6f8fc.chunk.js": "/meiri45/shopit.github.io.git/static/js/787.55b6f8fc.chunk.js",
+    "static/media/logo.svg": "/meiri45/shopit.github.io.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/meiri45/shopit.github.io.git/index.html",
+    "main.073c9b0a.css.map": "/meiri45/shopit.github.io.git/static/css/main.073c9b0a.css.map",
+    "main.1d646f86.js.map": "/meiri45/shopit.github.io.git/static/js/main.1d646f86.js.map",
+    "787.55b6f8fc.chunk.js.map": "/meiri45/shopit.github.io.git/static/js/787.55b6f8fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1d646f86.js"
+  ]
+}
