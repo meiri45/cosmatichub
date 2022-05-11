@@ -162,9 +162,9 @@ const Home = ({ match }) => {
           )}
         </Fragment>
       )}
-      <Link to="/About" className="btn btn-block mt-3" id="about-button">
+      {/* <Link to="/About" className="btn btn-block mt-3" id="about-button">
         About Us
-      </Link>
+      </Link> */}
     </Fragment>
   );
 };
